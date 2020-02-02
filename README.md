@@ -3,4 +3,4 @@ The Drinks program is used to help decide what to drink. The user inputs the ing
 
 Made entirely by Samantha McCabe
 
-Only works on 
+Only works on/before Xcode version 9.2
